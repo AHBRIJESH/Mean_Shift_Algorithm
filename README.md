@@ -1,6 +1,6 @@
 # Image Clustering using Mean Shift Algorithm
 
-![Naive Bayes](https://img.shields.io/badge/Implementation-Mean%20Shift-purple)
+![](https://img.shields.io/badge/Implementation-Mean%20Shift-purple)
 
 This repository contains a Python script that demonstrates the use of the Mean Shift clustering algorithm for image segmentation. Mean Shift is a non-parametric clustering algorithm widely used in computer vision tasks.
 
